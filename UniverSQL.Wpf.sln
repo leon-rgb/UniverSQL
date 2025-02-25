@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniverSQL.Wpf", "UniverSQL.Wpf\UniverSQL.Wpf.csproj", "{1FA719F8-6CD3-4D67-91E9-630A18B69546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniverSQL.Core", "UniverSQL.Core\UniverSQL.Core.csproj", "{8E3453F0-4848-438C-AF71-D168F9A90E67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FA719F8-6CD3-4D67-91E9-630A18B69546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA719F8-6CD3-4D67-91E9-630A18B69546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA719F8-6CD3-4D67-91E9-630A18B69546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA719F8-6CD3-4D67-91E9-630A18B69546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3453F0-4848-438C-AF71-D168F9A90E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3453F0-4848-438C-AF71-D168F9A90E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3453F0-4848-438C-AF71-D168F9A90E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3453F0-4848-438C-AF71-D168F9A90E67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0732E8D7-51DF-4352-A9A2-5E7E949F3D27}
+	EndGlobalSection
+EndGlobal
